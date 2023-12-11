@@ -1,0 +1,2 @@
+A classe ArvoreBinaria está em conjunto com a classe Node num regime de composição: todos os nós são criados dentro da árvore e não podem 
+existir sem ela, porém uma árvore pode existir sem nenhum nó adicionado. 

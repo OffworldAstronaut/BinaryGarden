@@ -1,0 +1,3 @@
+Matplotlib   # plottagem da árvore numa versão gráfica
+EoN          # plottagem da árvore numa versão gráfica  
+NetworkX     # plottagem da árvore numa versão gráfica
